@@ -1,0 +1,23 @@
+# =============================================
+ # CONFIGURACIÓN PARA JUGAR EN STEAM
+  # MÁQUINA VIRTUAL WINDOWS 11
+   # =============================================
+    # NOMBRE DE LA MÁQUINA
+     Nombre: Steam-Gaming-PC
+      Sistema operativo: Windows 11 64 bits
+       Versión: Windows 11 22H2 o superior
+        # RECURSOS DEL SISTEMA (IMPORTANTE PARA JUEGOS)
+         Memoria RAM: 8192 MB (8 GB)
+          Procesadores: 4 núcleos
+           Espacio en disco: 120 GB
+            Tipo de disco: Dinámico
+             # CONFIGURACIÓN DE GRÁFICOS
+              Memoria de video: 512 MB
+               Resolución de pantalla: 1920x1080
+                Controlador gráfico: VBoxSVGA
+                 # CARACTERÍSTICAS ACTIVADAS
+                  ✅ Virtualización: Activada
+                   ✅ Red: NAT (rápida para descargar juegos)
+                    ✅ Sonido: Activado
+                     ✅ Aceleración de video: ACTIVADAS
+                     
